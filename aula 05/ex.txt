@@ -1,0 +1,10 @@
+Criar um objeto com os seguintes metodos:
+
+*__toString()
+*__invoke()
+*__set()
+*__get()
+*__call()
+*__callStatic()
+
+Pagina 98- 107.
