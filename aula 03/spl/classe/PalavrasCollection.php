@@ -20,5 +20,5 @@ class PalavrasCollection implements IteratorAggregate
     {
         return new OrdemAlfabeticaIterator($this, true);
     }
-    echo 'Alerta aluno com preguiça';
+
 }

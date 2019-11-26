@@ -1,12 +1,12 @@
 <?php
 
-class Cliente extends Pessoa
+class Cliente extends Pessoa{
 
-public $rg;
-$cpf;
+    public $rg;
+    public $cpf;
 
-public function nomeCompleto() : string
-    {
-        return "{$this->sobrenome}, {$this->nome}";
+    public function nomeCompleto() : string
+        {
+            return "{$this->sobrenome}, {$this->nome}";
+        }
     }
-}

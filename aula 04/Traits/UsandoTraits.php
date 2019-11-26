@@ -46,7 +46,7 @@ var_dump(new class{
         A::a insteadOf B;
         B::a as metodoAdaTraitB;
     }
-})->metodoAdaTraitB());
+})->metodoAdaTraitB();
 
 trait C
 {
